@@ -9,6 +9,8 @@ bug fix 000
 わざとコンフリクト
 
 
+# add "hello world"
+
 # pull request memo
 ```
 $ git checkout -b issue_001
@@ -33,3 +35,4 @@ $ git checkout master
 $ git merge --no-ff issue002
 $ git push origin master
 ```
+
